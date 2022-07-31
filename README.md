@@ -1,3 +1,8 @@
+This is a simple repository demonstrating how Streamlit can be used to make a dashboard displaying various graphs.
+
+Simply run streamlit run example-dashboard/front_end.py to see the dashbaord.
+
+
 # Data analysis
 - Document here the project: Dashboard
 - Description: Project Description
